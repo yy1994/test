@@ -1,0 +1,278 @@
+2016-12-02 03:28:26 pid:2968 Workerman[index.php] start in DEBUG mode
+2016-12-02 03:28:26 pid:2972 /home/vagrant/Code/com/vendor/walkor/workerman/Protocols/Http/mime.types mime.type file not fond
+2016-12-02 03:28:26 pid:2970 /home/vagrant/Code/com/vendor/walkor/workerman/Protocols/Http/mime.types mime.type file not fond
+2016-12-02 03:28:26 pid:2969 /home/vagrant/Code/com/vendor/walkor/workerman/Protocols/Http/mime.types mime.type file not fond
+2016-12-02 03:29:06 pid:2968 Workerman[index.php] Stopping ...
+2016-12-02 03:29:07 pid:2968 Workerman[index.php] has been stopped
+2016-12-02 03:31:11 pid:2981 Workerman[index.php] start in DEBUG mode
+2016-12-02 03:31:22 pid:2981 Workerman[index.php] Stopping ...
+2016-12-02 03:31:22 pid:2981 Workerman[index.php] has been stopped
+2016-12-02 03:31:23 pid:2991 Workerman[index.php] start in DEBUG mode
+2016-12-02 03:31:26 pid:2995 Workerman[index.php] start in DEBUG mode
+2016-12-02 03:31:26 pid:2995 Workerman[index.php] already running
+2016-12-02 03:31:26 pid:2995 WORKER EXIT UNEXPECTED 
+2016-12-02 03:31:26 pid:2994 Workerman[index.php] start in DEBUG mode
+2016-12-02 03:31:26 pid:2994 Workerman[index.php] already running
+2016-12-02 03:31:26 pid:2994 WORKER EXIT UNEXPECTED 
+2016-12-02 03:31:26 pid:2993 Workerman[index.php] start in DEBUG mode
+2016-12-02 03:31:26 pid:2993 Workerman[index.php] already running
+2016-12-02 03:31:26 pid:2993 WORKER EXIT UNEXPECTED 
+2016-12-02 03:31:28 pid:3001 Workerman[index.php] start in DEBUG mode
+2016-12-02 03:31:28 pid:3001 Workerman[index.php] already running
+2016-12-02 03:31:28 pid:3001 WORKER EXIT UNEXPECTED 
+2016-12-02 03:31:28 pid:3002 Workerman[index.php] start in DEBUG mode
+2016-12-02 03:31:28 pid:3002 Workerman[index.php] already running
+2016-12-02 03:31:28 pid:3002 WORKER EXIT UNEXPECTED 
+2016-12-02 03:31:29 pid:3003 Workerman[index.php] start in DEBUG mode
+2016-12-02 03:31:29 pid:3003 Workerman[index.php] already running
+2016-12-02 03:31:29 pid:3003 WORKER EXIT UNEXPECTED 
+2016-12-02 03:31:29 pid:3004 Workerman[index.php] start in DEBUG mode
+2016-12-02 03:31:29 pid:3004 Workerman[index.php] already running
+2016-12-02 03:31:29 pid:3004 WORKER EXIT UNEXPECTED 
+2016-12-02 03:31:30 pid:3005 Workerman[index.php] start in DEBUG mode
+2016-12-02 03:31:30 pid:3005 Workerman[index.php] already running
+2016-12-02 03:31:30 pid:3005 WORKER EXIT UNEXPECTED 
+2016-12-02 03:31:30 pid:3006 Workerman[index.php] start in DEBUG mode
+2016-12-02 03:31:30 pid:3006 Workerman[index.php] already running
+2016-12-02 03:31:30 pid:3006 WORKER EXIT UNEXPECTED 
+2016-12-02 03:32:00 pid:3007 Workerman[index.php] start in DEBUG mode
+2016-12-02 03:32:00 pid:3007 Workerman[index.php] already running
+2016-12-02 03:32:00 pid:3007 WORKER EXIT UNEXPECTED 
+2016-12-02 03:32:13 pid:3008 Workerman[index.php] start in DEBUG mode
+2016-12-02 03:32:13 pid:3008 Workerman[index.php] already running
+2016-12-02 03:32:13 pid:3008 WORKER EXIT UNEXPECTED 
+2016-12-02 03:32:13 pid:3009 Workerman[index.php] start in DEBUG mode
+2016-12-02 03:32:13 pid:3009 Workerman[index.php] already running
+2016-12-02 03:32:13 pid:3009 WORKER EXIT UNEXPECTED 
+2016-12-02 03:32:14 pid:3011 Workerman[index.php] start in DEBUG mode
+2016-12-02 03:32:14 pid:3011 Workerman[index.php] already running
+2016-12-02 03:32:14 pid:3011 WORKER EXIT UNEXPECTED 
+2016-12-02 03:32:14 pid:3012 Workerman[index.php] start in DEBUG mode
+2016-12-02 03:32:14 pid:3012 Workerman[index.php] already running
+2016-12-02 03:32:14 pid:3012 WORKER EXIT UNEXPECTED 
+2016-12-02 03:32:24 pid:3014 Workerman[index.php] start in DEBUG mode
+2016-12-02 03:32:24 pid:3014 Workerman[index.php] already running
+2016-12-02 03:32:24 pid:3014 WORKER EXIT UNEXPECTED 
+2016-12-02 03:32:24 pid:3015 Workerman[index.php] start in DEBUG mode
+2016-12-02 03:32:24 pid:3015 Workerman[index.php] already running
+2016-12-02 03:32:24 pid:3015 WORKER EXIT UNEXPECTED 
+2016-12-02 03:32:24 pid:3016 Workerman[index.php] start in DEBUG mode
+2016-12-02 03:32:24 pid:3016 Workerman[index.php] already running
+2016-12-02 03:32:24 pid:3016 WORKER EXIT UNEXPECTED 
+2016-12-02 03:32:29 pid:3017 Workerman[index.php] start in DEBUG mode
+2016-12-02 03:32:29 pid:3017 Workerman[index.php] already running
+2016-12-02 03:32:29 pid:3017 WORKER EXIT UNEXPECTED 
+2016-12-02 03:35:36 pid:2991 Workerman[index.php] Stopping ...
+2016-12-02 03:35:36 pid:2991 Workerman[index.php] has been stopped
+2016-12-02 05:51:36 pid:3799 Workerman[index.php] start in DEBUG mode
+2016-12-02 06:10:48 pid:3799 Workerman[index.php] Stopping ...
+2016-12-02 06:10:48 pid:3799 Workerman[index.php] has been stopped
+2016-12-02 06:10:50 pid:3969 Workerman[index.php] start in DEBUG mode
+2016-12-02 06:11:00 pid:3976 WORKER EXIT UNEXPECTED E_ERROR Class 'Test' not found in /home/vagrant/Code/com/php/index.php on line 43
+2016-12-02 06:11:00 pid:3969 worker[websocket:3976] exit with status 65280
+2016-12-02 06:16:57 pid:3969 Workerman[index.php] Stopping ...
+2016-12-02 06:16:57 pid:3969 Workerman[index.php] has been stopped
+2016-12-02 06:16:58 pid:3988 Workerman[index.php] start in DEBUG mode
+2016-12-02 06:17:10 pid:3996 WORKER EXIT UNEXPECTED E_ERROR Class 'Workerman\model\Test' not found in /home/vagrant/Code/com/php/index.php on line 44
+2016-12-02 06:17:10 pid:3988 worker[websocket:3996] exit with status 65280
+2016-12-02 06:17:56 pid:3988 Workerman[index.php] Stopping ...
+2016-12-02 06:17:56 pid:3988 Workerman[index.php] has been stopped
+2016-12-02 06:17:57 pid:4003 Workerman[index.php] start in DEBUG mode
+2016-12-02 06:18:02 pid:4010 WORKER EXIT UNEXPECTED E_ERROR Class 'Workerman\model\Test' not found in /home/vagrant/Code/com/php/index.php on line 44
+2016-12-02 06:18:02 pid:4003 worker[websocket:4010] exit with status 65280
+2016-12-02 06:32:58 pid:4003 Workerman[index.php] Stopping ...
+2016-12-02 06:32:58 pid:4003 Workerman[index.php] has been stopped
+2016-12-02 06:32:59 pid:4193 Workerman[index.php] start in DEBUG mode
+2016-12-02 06:33:20 pid:4200 WORKER EXIT UNEXPECTED E_ERROR Class 'Workerman\model\Test' not found in /home/vagrant/Code/com/php/index.php on line 44
+2016-12-02 06:33:20 pid:4193 worker[websocket:4200] exit with status 65280
+2016-12-02 06:34:55 pid:4193 Workerman[index.php] Stopping ...
+2016-12-02 06:34:55 pid:4193 Workerman[index.php] has been stopped
+2016-12-02 06:34:56 pid:4206 Workerman[index.php] start in DEBUG mode
+2016-12-02 06:35:06 pid:4214 WORKER EXIT UNEXPECTED E_ERROR Class 'Workerman\model\Test' not found in /home/vagrant/Code/com/php/index.php on line 44
+2016-12-02 06:35:06 pid:4206 worker[websocket:4214] exit with status 65280
+2016-12-02 06:36:03 pid:4206 Workerman[index.php] Stopping ...
+2016-12-02 06:36:03 pid:4206 Workerman[index.php] has been stopped
+2016-12-02 06:36:03 pid:4218 Workerman[index.php] start in DEBUG mode
+2016-12-02 06:36:22 pid:4218 Workerman[index.php] Stopping ...
+2016-12-02 06:36:22 pid:4218 Workerman[index.php] has been stopped
+2016-12-02 06:36:23 pid:4227 Workerman[index.php] start in DEBUG mode
+2016-12-02 06:36:27 pid:4235 WORKER EXIT UNEXPECTED E_ERROR Class 'Workerman\model\Test' not found in /home/vagrant/Code/com/php/index.php on line 44
+2016-12-02 06:36:28 pid:4227 worker[websocket:4235] exit with status 65280
+2016-12-02 06:37:58 pid:4227 Workerman[index.php] Stopping ...
+2016-12-02 06:37:58 pid:4227 Workerman[index.php] has been stopped
+2016-12-02 06:37:58 pid:4240 Workerman[index.php] start in DEBUG mode
+2016-12-02 06:38:03 pid:4245 WORKER EXIT UNEXPECTED E_ERROR Class 'Test' not found in /home/vagrant/Code/com/php/index.php on line 44
+2016-12-02 06:38:03 pid:4240 worker[websocket:4245] exit with status 65280
+2016-12-02 06:42:09 pid:4240 Workerman[index.php] Stopping ...
+2016-12-02 06:42:09 pid:4240 Workerman[index.php] has been stopped
+2016-12-02 06:42:09 pid:4271 Workerman[index.php] start in DEBUG mode
+2016-12-02 06:42:13 pid:4272 Workerman[index.php] start in DEBUG mode
+2016-12-02 06:42:24 pid:4274 Workerman[index.php] start in DEBUG mode
+2016-12-02 06:42:33 pid:4276 Workerman[index.php] restart 
+2016-12-02 06:42:33 pid:4276 Workerman[index.php] is stoping ...
+2016-12-02 06:42:33 pid:4276 Workerman[index.php] stop success
+2016-12-02 06:42:41 pid:4277 Workerman[index.php] restart 
+2016-12-02 06:42:41 pid:4277 Workerman[index.php] is stoping ...
+2016-12-02 06:42:41 pid:4277 Workerman[index.php] stop success
+2016-12-02 06:42:53 pid:4278 Workerman[index.php] restart 
+2016-12-02 06:42:53 pid:4278 Workerman[index.php] is stoping ...
+2016-12-02 06:42:53 pid:4278 Workerman[index.php] stop success
+2016-12-02 06:43:05 pid:4278 Workerman[index.php] Stopping ...
+2016-12-02 06:43:05 pid:4278 Workerman[index.php] has been stopped
+2016-12-02 06:43:06 pid:4287 Workerman[index.php] restart 
+2016-12-02 06:43:06 pid:4287 Workerman[index.php] is stoping ...
+2016-12-02 06:43:06 pid:4287 Workerman[index.php] stop success
+2016-12-02 06:43:42 pid:4290 Workerman[index.php] restart 
+2016-12-02 06:43:42 pid:4290 Workerman[index.php] is stoping ...
+2016-12-02 06:43:42 pid:4290 Workerman[index.php] stop success
+2016-12-02 06:43:49 pid:4298 WORKER EXIT UNEXPECTED E_ERROR Class 'Test' not found in /home/vagrant/Code/com/php/index.php on line 50
+2016-12-02 06:43:49 pid:4290 worker[websocket:4298] exit with status 65280
+2016-12-02 06:47:15 pid:4292 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare __autoload() (previously declared in /home/vagrant/Code/com/php/index.php:13) in /home/vagrant/Code/com/php/index.php on line 16
+2016-12-02 06:47:15 pid:4290 worker[WebServer:4292] exit with status 65280
+2016-12-02 06:47:15 pid:4291 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare __autoload() (previously declared in /home/vagrant/Code/com/php/index.php:13) in /home/vagrant/Code/com/php/index.php on line 16
+2016-12-02 06:47:15 pid:4290 worker[WebServer:4291] exit with status 65280
+2016-12-02 06:47:20 pid:4304 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare __autoload() (previously declared in /home/vagrant/Code/com/php/index.php:13) in /home/vagrant/Code/com/php/test.php on line 4
+2016-12-02 06:47:20 pid:4305 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare __autoload() (previously declared in /home/vagrant/Code/com/php/index.php:13) in /home/vagrant/Code/com/php/test.php on line 4
+2016-12-02 06:47:20 pid:4290 worker[WebServer:4304] exit with status 65280
+2016-12-02 06:47:20 pid:4293 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare __autoload() (previously declared in /home/vagrant/Code/com/php/index.php:13) in /home/vagrant/Code/com/php/test.php on line 4
+2016-12-02 06:47:20 pid:4290 worker[WebServer:4305] exit with status 65280
+2016-12-02 06:47:20 pid:4290 worker[WebServer:4293] exit with status 65280
+2016-12-02 06:47:20 pid:4306 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare __autoload() (previously declared in /home/vagrant/Code/com/php/index.php:13) in /home/vagrant/Code/com/php/test.php on line 4
+2016-12-02 06:47:20 pid:4290 worker[WebServer:4306] exit with status 65280
+2016-12-02 06:47:24 pid:4290 Workerman[index.php] Stopping ...
+2016-12-02 06:47:25 pid:4290 Workerman[index.php] has been stopped
+2016-12-02 06:47:25 pid:4311 Workerman[index.php] restart 
+2016-12-02 06:47:25 pid:4311 Workerman[index.php] is stoping ...
+2016-12-02 06:47:25 pid:4311 Workerman[index.php] stop success
+2016-12-02 06:47:25 pid:4314 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare __autoload() (previously declared in /home/vagrant/Code/com/php/index.php:13) in /home/vagrant/Code/com/php/test.php on line 4
+2016-12-02 06:47:25 pid:4311 worker[WebServer:4314] exit with status 65280
+2016-12-02 06:47:48 pid:4311 Workerman[index.php] Stopping ...
+2016-12-02 06:47:48 pid:4311 Workerman[index.php] has been stopped
+2016-12-02 06:47:49 pid:4322 Workerman[index.php] restart 
+2016-12-02 06:47:49 pid:4322 Workerman[index.php] is stoping ...
+2016-12-02 06:47:49 pid:4322 Workerman[index.php] stop success
+2016-12-02 06:47:52 pid:4322 Workerman[index.php] Stopping ...
+2016-12-02 06:47:52 pid:4322 Workerman[index.php] has been stopped
+2016-12-02 06:47:53 pid:4331 Workerman[index.php] restart 
+2016-12-02 06:47:53 pid:4331 Workerman[index.php] is stoping ...
+2016-12-02 06:47:53 pid:4331 Workerman[index.php] stop success
+2016-12-02 06:47:56 pid:4334 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare __autoload() (previously declared in /home/vagrant/Code/com/php/index.php:13) in /home/vagrant/Code/com/php/test.php on line 4
+2016-12-02 06:47:56 pid:4331 worker[WebServer:4334] exit with status 65280
+2016-12-02 06:48:22 pid:4331 Workerman[index.php] Stopping ...
+2016-12-02 06:48:22 pid:4331 Workerman[index.php] has been stopped
+2016-12-02 06:48:23 pid:4396 Workerman[index.php] restart 
+2016-12-02 06:48:23 pid:4396 Workerman[index.php] is stoping ...
+2016-12-02 06:48:23 pid:4396 Workerman[index.php] stop success
+2016-12-02 06:48:28 pid:4400 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:48:28 pid:4396 worker[WebServer:4400] exit with status 65280
+2016-12-02 06:48:28 pid:4399 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:48:28 pid:4396 worker[WebServer:4399] exit with status 65280
+2016-12-02 06:48:28 pid:4398 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:48:28 pid:4396 worker[WebServer:4398] exit with status 65280
+2016-12-02 06:48:30 pid:4406 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:48:30 pid:4396 worker[WebServer:4406] exit with status 65280
+2016-12-02 06:48:30 pid:4397 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:48:30 pid:4396 worker[WebServer:4397] exit with status 65280
+2016-12-02 06:48:30 pid:4408 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:48:30 pid:4396 worker[WebServer:4408] exit with status 65280
+2016-12-02 06:48:31 pid:4410 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:48:31 pid:4411 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:48:31 pid:4396 worker[WebServer:4410] exit with status 65280
+2016-12-02 06:48:31 pid:4409 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:48:31 pid:4396 worker[WebServer:4411] exit with status 65280
+2016-12-02 06:48:32 pid:4396 worker[WebServer:4409] exit with status 65280
+2016-12-02 06:48:33 pid:4413 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:48:33 pid:4412 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:48:33 pid:4396 worker[WebServer:4413] exit with status 65280
+2016-12-02 06:48:33 pid:4396 worker[WebServer:4412] exit with status 65280
+2016-12-02 06:48:33 pid:4414 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:48:33 pid:4396 worker[WebServer:4414] exit with status 65280
+2016-12-02 06:48:34 pid:4416 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:48:34 pid:4396 worker[WebServer:4416] exit with status 65280
+2016-12-02 06:48:34 pid:4415 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:48:34 pid:4417 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:48:34 pid:4396 worker[WebServer:4415] exit with status 65280
+2016-12-02 06:48:34 pid:4396 worker[WebServer:4417] exit with status 65280
+2016-12-02 06:48:35 pid:4418 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:48:35 pid:4407 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:48:35 pid:4396 worker[WebServer:4418] exit with status 65280
+2016-12-02 06:48:35 pid:4396 worker[WebServer:4407] exit with status 65280
+2016-12-02 06:48:35 pid:4420 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:48:35 pid:4396 worker[WebServer:4420] exit with status 65280
+2016-12-02 06:48:36 pid:4422 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:48:36 pid:4421 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:48:36 pid:4396 worker[WebServer:4422] exit with status 65280
+2016-12-02 06:48:36 pid:4396 worker[WebServer:4421] exit with status 65280
+2016-12-02 06:48:36 pid:4423 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:48:36 pid:4396 worker[WebServer:4423] exit with status 65280
+2016-12-02 06:49:08 pid:4425 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:49:08 pid:4419 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:49:08 pid:4396 worker[WebServer:4425] exit with status 65280
+2016-12-02 06:49:08 pid:4396 worker[WebServer:4419] exit with status 65280
+2016-12-02 06:49:08 pid:4424 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:49:08 pid:4396 worker[WebServer:4424] exit with status 65280
+2016-12-02 06:49:25 pid:4396 Workerman[index.php] Stopping ...
+2016-12-02 06:49:25 pid:4396 Workerman[index.php] has been stopped
+2016-12-02 06:49:26 pid:4515 Workerman[index.php] restart 
+2016-12-02 06:49:26 pid:4515 Workerman[index.php] is stoping ...
+2016-12-02 06:49:26 pid:4515 Workerman[index.php] stop success
+2016-12-02 06:49:30 pid:4518 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:49:30 pid:4515 worker[WebServer:4518] exit with status 65280
+2016-12-02 06:49:30 pid:4516 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:49:30 pid:4519 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:49:30 pid:4515 worker[WebServer:4516] exit with status 65280
+2016-12-02 06:49:30 pid:4515 worker[WebServer:4519] exit with status 65280
+2016-12-02 06:49:30 pid:4517 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:49:30 pid:4515 worker[WebServer:4517] exit with status 65280
+2016-12-02 06:49:35 pid:4526 WORKER EXIT UNEXPECTED E_ERROR Class 'Demo' not found in /home/vagrant/Code/com/php/test.php on line 6
+2016-12-02 06:49:35 pid:4515 worker[WebServer:4526] exit with status 65280
+2016-12-02 06:50:21 pid:4515 Workerman[index.php] Stopping ...
+2016-12-02 06:50:22 pid:4515 Workerman[index.php] has been stopped
+2016-12-02 06:50:23 pid:4530 Workerman[index.php] restart 
+2016-12-02 06:50:23 pid:4530 Workerman[index.php] is stoping ...
+2016-12-02 06:50:23 pid:4530 Workerman[index.php] stop success
+2016-12-02 06:50:36 pid:4534 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare __autoload() (previously declared in /home/vagrant/Code/com/php/test.php:11) in /home/vagrant/Code/com/php/test.php on line 13
+2016-12-02 06:50:36 pid:4530 worker[WebServer:4534] exit with status 65280
+2016-12-02 06:50:36 pid:4531 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare __autoload() (previously declared in /home/vagrant/Code/com/php/test.php:11) in /home/vagrant/Code/com/php/test.php on line 13
+2016-12-02 06:50:36 pid:4530 worker[WebServer:4531] exit with status 65280
+2016-12-02 06:50:39 pid:4540 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare __autoload() (previously declared in /home/vagrant/Code/com/php/test.php:11) in /home/vagrant/Code/com/php/test.php on line 13
+2016-12-02 06:50:39 pid:4530 worker[WebServer:4540] exit with status 65280
+2016-12-02 06:50:40 pid:4541 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare __autoload() (previously declared in /home/vagrant/Code/com/php/test.php:11) in /home/vagrant/Code/com/php/test.php on line 13
+2016-12-02 06:50:40 pid:4530 worker[WebServer:4541] exit with status 65280
+2016-12-02 06:50:41 pid:4542 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare __autoload() (previously declared in /home/vagrant/Code/com/php/test.php:11) in /home/vagrant/Code/com/php/test.php on line 13
+2016-12-02 06:50:41 pid:4530 worker[WebServer:4542] exit with status 65280
+2016-12-02 06:50:46 pid:4530 Workerman[index.php] Stopping ...
+2016-12-02 06:50:46 pid:4530 Workerman[index.php] has been stopped
+2016-12-02 06:50:47 pid:4545 Workerman[index.php] restart 
+2016-12-02 06:50:47 pid:4545 Workerman[index.php] is stoping ...
+2016-12-02 06:50:47 pid:4545 Workerman[index.php] stop success
+2016-12-02 06:50:58 pid:4548 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare __autoload() (previously declared in /home/vagrant/Code/com/php/test.php:11) in /home/vagrant/Code/com/php/test.php on line 13
+2016-12-02 06:50:58 pid:4545 worker[WebServer:4548] exit with status 65280
+2016-12-02 06:51:40 pid:4545 Workerman[index.php] Stopping ...
+2016-12-02 06:51:40 pid:4545 Workerman[index.php] has been stopped
+2016-12-02 06:51:40 pid:4557 Workerman[index.php] restart 
+2016-12-02 06:51:40 pid:4557 Workerman[index.php] is stoping ...
+2016-12-02 06:51:40 pid:4557 Workerman[index.php] stop success
+2016-12-02 06:52:12 pid:4557 Workerman[index.php] Stopping ...
+2016-12-02 06:52:12 pid:4557 Workerman[index.php] has been stopped
+2016-12-02 06:56:09 pid:4690 Workerman[index.php] restart 
+2016-12-02 06:56:09 pid:4690 Workerman[index.php] is stoping ...
+2016-12-02 06:56:09 pid:4690 Workerman[index.php] stop success
+2016-12-02 06:56:46 pid:4690 Workerman[index.php] Stopping ...
+2016-12-02 06:56:47 pid:4690 Workerman[index.php] has been stopped
+2016-12-02 06:56:47 pid:4700 Workerman[index.php] restart 
+2016-12-02 06:56:48 pid:4700 Workerman[index.php] is stoping ...
+2016-12-02 06:56:48 pid:4700 Workerman[index.php] stop success
+2016-12-02 06:56:56 pid:4702 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare __autoload() (previously declared in /home/vagrant/Code/com/php/test.php:11) in /home/vagrant/Code/com/php/test.php on line 20
+2016-12-02 06:56:56 pid:4700 worker[WebServer:4702] exit with status 65280
+2016-12-02 06:56:58 pid:4703 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare __autoload() (previously declared in /home/vagrant/Code/com/php/test.php:11) in /home/vagrant/Code/com/php/test.php on line 20
+2016-12-02 06:56:58 pid:4701 WORKER EXIT UNEXPECTED E_COMPILE_ERROR Cannot redeclare __autoload() (previously declared in /home/vagrant/Code/com/php/test.php:11) in /home/vagrant/Code/com/php/test.php on line 20
+2016-12-02 06:56:58 pid:4700 worker[WebServer:4703] exit with status 65280
+2016-12-02 06:56:58 pid:4700 worker[WebServer:4701] exit with status 65280
+2016-12-02 07:14:45 pid:4700 Workerman[index.php] Stopping ...
+2016-12-02 07:14:45 pid:4700 Workerman[index.php] has been stopped
+2016-12-02 07:18:04 pid:4785 Workerman[index.php] restart 
+2016-12-02 07:18:04 pid:4785 Workerman[index.php] is stoping ...
+2016-12-02 07:18:04 pid:4785 Workerman[index.php] stop success
+2016-12-02 07:28:14 pid:4785 Workerman[index.php] Stopping ...
+2016-12-02 07:28:15 pid:4785 Workerman[index.php] has been stopped

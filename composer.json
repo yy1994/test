@@ -1,0 +1,15 @@
+{
+    "name": "yy/hello-world",
+    "version": "1.0.0",
+    "require": {
+        "walkor/Workerman": "3.*",
+        "monolog/monolog": "1.0.*",
+        "illuminate/database": "~5.0",
+        "illuminate/events": "^5.2"
+    },
+    "autoload": {
+        "classmap": [
+            "model"
+        ]
+    }
+}
